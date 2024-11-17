@@ -461,6 +461,11 @@ hash = "c90ca086f3602640d4ec57c2d9633cda955193ad17ca0eba3ad2df9816e1f8ca"
 metafile = true
 
 [[files]]
+file = "mods/reap-mod.pw.toml"
+hash = "113682c8cf9c08955c3f66513e91aeeb540e822994a3bc7316ed5ade01130ac6"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "6b1f6f2c838189d1fc066f992284ded49686bc1a0c040aaac8b557d5602143fd"
 metafile = true
@@ -478,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "ded97547d477c8a436c3cb564e7abc9840876b89b0da9f1b828ef6dc17604f2f"
-metafile = true
-
-[[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "8c7c4851b45b3eb5938cbc11a66e6a53491d5324c7637a131e9da139c453042d"
 metafile = true
 
 [[files]]
