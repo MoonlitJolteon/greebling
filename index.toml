@@ -421,11 +421,6 @@ hash = "be0db50a708431e4f656eb66da738e57f0cbea88069a7795abd33ba64536bc56"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "5ff40f709a75ed3fb003ff51e451fa63c9efad239c5a16f0f0e3eaaeb7e9e1b5"
-metafile = true
-
-[[files]]
 file = "mods/open-computer-resurrected.pw.toml"
 hash = "9a9630cd33fdf76b4aa3beca01c66cce3ef474be9c3d3aa1fd8c28a87e33f993"
 metafile = true
