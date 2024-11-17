@@ -221,6 +221,11 @@ hash = "712a85d72c6ac3e1589505de2fcf550b8bcdcb2c5a69214057546f908ebd033f"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "d31e0d7a5de682cf8456af67efcfb0443a0f5295da54db4f357cba6932c6069c"
+metafile = true
+
+[[files]]
 file = "mods/feywild.pw.toml"
 hash = "c9d0a74e29034cb277b3cb74d7c0bca602438b180cce8f18015681c0ca4467c4"
 metafile = true
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "101ccb175a05a5aed1fbd318cc4b0c7112a4dfd4315fa502de165dcb5b3eaeac"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
 metafile = true
 
 [[files]]
