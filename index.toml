@@ -126,6 +126,11 @@ hash = "ec22faad30d12bd4dd200331298eb81731167d5673b9c7511e64ec9220c4f056"
 metafile = true
 
 [[files]]
+file = "mods/compact-machines.pw.toml"
+hash = "a51200bb524422c5b20d461dbbbacb537caf28e3d5eb4e7d54d75f8d25223f0e"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "4daa9f2f58ec39c96195ff434448157f155a8ca893b8f0a3ce7b97d260cc04d0"
 metafile = true
@@ -162,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "4b5a50227418eb77f5c4f0962626e8bb749f4d089bf73e3e58219e2e07255707"
+hash = "d590321700604102f028bd9317c16c5db33b497d69992557c27c9dce4e2225cf"
 metafile = true
 
 [[files]]
