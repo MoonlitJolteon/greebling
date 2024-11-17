@@ -1,0 +1,13 @@
+name = "Open Computer: Resurrected"
+filename = "OpenComputers-MC1.16.5-1.8.3+b751a9029.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd9ef704f095dad0f1078874ff0fd89468097c80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5025358
+project-id = 960995

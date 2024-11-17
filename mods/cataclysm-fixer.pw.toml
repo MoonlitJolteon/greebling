@@ -1,0 +1,13 @@
+name = "Cataclysm Fixer"
+filename = "cataclysmfixer-1.16.5-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dcc95626654ba6588a1cd77be1cdbdfc70669dd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4547589
+project-id = 864782

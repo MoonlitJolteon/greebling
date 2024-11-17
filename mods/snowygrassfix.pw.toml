@@ -1,0 +1,13 @@
+name = "SnowyGrassFix"
+filename = "snowygrassfix-1.16.1-1.16.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e9e5cebea27b066e9ab741e7e85c230fac69f07"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5554171
+project-id = 1068871

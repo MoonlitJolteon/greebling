@@ -1,0 +1,13 @@
+name = "Quark Patcher"
+filename = "quarkpatch-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f899161def0f8e73386017034086c8dc0f735f30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4613454
+project-id = 881737
