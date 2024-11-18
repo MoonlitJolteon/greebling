@@ -1,0 +1,15 @@
+
+["Cataclysm Fixer"]
+	#Range: > 5
+	"burning arena spacing" = 112
+	#Range: > 5
+	"ruined citadel separation" = 10
+	#Range: > 5
+	"ruined citadel spacing" = 30
+	#Range: > 5
+	"soul black smith separation" = 70
+	#Range: > 5
+	"burning arena separation" = 70
+	#Range: > 5
+	"soul black smith spacing" = 90
+
