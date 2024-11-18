@@ -1,0 +1,13 @@
+name = "The Magic Mirror"
+filename = "MagicMirror-1.16.5-0.3.0.1692.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d36ea2ba691d58f7bc3fe46fb575b156c60bd5b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5308915
+project-id = 323750
