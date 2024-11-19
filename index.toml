@@ -1449,11 +1449,6 @@ hash = "ec22faad30d12bd4dd200331298eb81731167d5673b9c7511e64ec9220c4f056"
 metafile = true
 
 [[files]]
-file = "mods/common-capabilities.pw.toml"
-hash = "f786da387c38f985d46d00c765ced150a88e5a65177bf3d7e4091bd43e87720e"
-metafile = true
-
-[[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "a51200bb524422c5b20d461dbbbacb537caf28e3d5eb4e7d54d75f8d25223f0e"
 metafile = true
