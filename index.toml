@@ -1559,11 +1559,6 @@ hash = "712a85d72c6ac3e1589505de2fcf550b8bcdcb2c5a69214057546f908ebd033f"
 metafile = true
 
 [[files]]
-file = "mods/fastcaps.pw.toml"
-hash = "60f65318a7d6b6f0089288653e7842bc82df5689de3d03590620904394ddf9b4"
-metafile = true
-
-[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "42f2a971b383f6f4689a3c7a9c00df03001b5b93116632d1bec21f5efef496b4"
 metafile = true
