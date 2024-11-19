@@ -1449,6 +1449,11 @@ hash = "ec22faad30d12bd4dd200331298eb81731167d5673b9c7511e64ec9220c4f056"
 metafile = true
 
 [[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "f786da387c38f985d46d00c765ced150a88e5a65177bf3d7e4091bd43e87720e"
+metafile = true
+
+[[files]]
 file = "mods/compact-machines.pw.toml"
 hash = "a51200bb524422c5b20d461dbbbacb537caf28e3d5eb4e7d54d75f8d25223f0e"
 metafile = true
@@ -1556,6 +1561,11 @@ metafile = true
 [[files]]
 file = "mods/fastcaps.pw.toml"
 hash = "60f65318a7d6b6f0089288653e7842bc82df5689de3d03590620904394ddf9b4"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "42f2a971b383f6f4689a3c7a9c00df03001b5b93116632d1bec21f5efef496b4"
 metafile = true
 
 [[files]]
@@ -1694,6 +1704,11 @@ hash = "1b8d63d8a0062dc9fcccc500c7c1295f84df418f98efcf098bbf3757ee9ffb98"
 metafile = true
 
 [[files]]
+file = "mods/lightspeedmod.pw.toml"
+hash = "0f63e7c2b33291a35f29640e3a6018122cf3483224869827a0bcc7e28888f3ca"
+metafile = true
+
+[[files]]
 file = "mods/little-logistics.pw.toml"
 hash = "bfe88b3d05734e0b546e7646cc422d4593919372a74c69bca440412cea33061a"
 metafile = true
@@ -1809,6 +1824,11 @@ hash = "389a1af91d726208ed1ec4bc686c79cf6d1b1ce6dab115c6113f201370b8287c"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "8909f6b209fce7c52d625bc9ad4cb5b2116e4823dd75a71e9a8f5a546d1d0f94"
+metafile = true
+
+[[files]]
 file = "mods/pollen.pw.toml"
 hash = "e9bf2731178a07b62a078e8e59a3e1a1c74bfa46e4a045363c97b899f38f8ae5"
 metafile = true
@@ -1816,6 +1836,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8b80951a6a78f26b1e0ba54d1193cfc63743001fc4f105b30ca5bc4f67dcb05b"
+metafile = true
+
+[[files]]
+file = "mods/potatocurrent.pw.toml"
+hash = "d8870fc7a83646eea9394435b728b5b521c2c2eeff64fe4aa59ebb83ffdc1fae"
 metafile = true
 
 [[files]]

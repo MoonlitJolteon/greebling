@@ -1,0 +1,13 @@
+name = "PotatoCurrent"
+filename = "potatocurrent-1.16.5-0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6fec00c5884dbf0691347cb7c46417bed868bcdb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4547584
+project-id = 864780
